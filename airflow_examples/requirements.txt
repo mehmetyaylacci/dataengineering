@@ -1,0 +1,4 @@
+airflow
+pyspark
+bs4
+urllib3
